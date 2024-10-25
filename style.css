@@ -16,6 +16,7 @@
     color: white;
     text-align: left;
     padding: 15px 0;
+     padding-left: 20px;
     font-size: 24px; /* Font size for top bar title */
     font-weight: bold;
     position: absolute;
